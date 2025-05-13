@@ -38,7 +38,7 @@
     "react": "^15.6.0"
   },
   "dependencies": {
-    "localized-strings": "github:BlueWallet/localized-strings#178351a7297336618d9ee87277f8e3af9ab7285d"
+    "localized-strings": "github:ReardenMetals/localized-strings#178351a7297336618d9ee87277f8e3af9ab7285d"
   },
   "peerDependencies": {
     "react": "^18.0.0 || ^17.0.0 || ^16.0.0 || ^15.6.0"
